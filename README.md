@@ -28,4 +28,11 @@ the robot can take diagonal actions i.e. 1 means diagonal movement allowed and 0
 The second line is the x and y coordinates of the goal cell.
 
 The following lines consitute the components of the maze (0 = free space; X = collision)
-The output coordinates are displayed in the output.txt file
+The output coordinates are displayed in the output.txt file.
+
+In order to visualize the input and output trajectories "visualize_maze.py" file comes into play.
+The final graphical plots from the python file are as follows: (BFS trajectory is blue; DFS trajectory is red; obstacles represented as X in input files are represented as black patches)
+
+When allow diagonal = 0 (no diagonal movement allowed)
+
+
