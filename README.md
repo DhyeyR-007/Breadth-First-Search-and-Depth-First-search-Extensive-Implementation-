@@ -33,6 +33,19 @@ The output coordinates are displayed in the output.txt file.
 In order to visualize the input and output trajectories "visualize_maze.py" file comes into play.
 The final graphical plots from the python file are as follows: (BFS trajectory is blue; DFS trajectory is red; obstacles represented as X in input files are represented as black patches)
 
-When allow diagonal = 0 (no diagonal movement allowed)
+When allow diagonal = 0 (no diagonal movement allowed)  (Input: "input.txt" ; Output: "output.txt")
+
+![image](https://user-images.githubusercontent.com/86003669/205467222-92c5f1e8-bab6-4361-ae79-9356edcdc5fe.png)
+
+
+When allow diagonal = 1 (diagonal movement allowed)(Input: "input_diagonal.txt" ; Output: "output_diagonal.txt")
+
+![image](https://user-images.githubusercontent.com/86003669/205467261-092c4273-f61a-4a4c-9f6c-69a981e5c2d5.png)
+
+
+
+
+
+
 
 
