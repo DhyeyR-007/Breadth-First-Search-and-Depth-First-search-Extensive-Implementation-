@@ -18,11 +18,11 @@ File Functions:
        
     7. ProblemDefinition::validStates (which returns the successors of a state, dependent on if you allow for diagonal traversal),
        
-    8.   TreeSearch::extractPath (which extracts the actual path from start to goal from a solved goal node into path_ (solved using BFS or DFS), and
+    8. TreeSearch::extractPath (which extracts the actual path from start to goal from a solved goal node into path_ (solved using BFS or DFS), and
        
-    9.  BFS::solve , DFS::solve , BFS::addNode , and DFS::addNode (used to find the goal node w.r.t. corresponding search strategy)
+    9. BFS::solve , DFS::solve , BFS::addNode , and DFS::addNode (used to find the goal node w.r.t. corresponding search strategy)
        
-    10.  CMakeLists.txt : defines the project for CMake to link together all the executable files (since implementation is spread across multiple .cpp    files)
+    10. CMakeLists.txt : defines the project for CMake to link together all the executable files (since implementation is spread across multiple .cpp    files)
     
 
 Input, Output and Maze
