@@ -4,7 +4,7 @@ Note:This long-formed approach has been carried out in order to leverage and und
 
 File Functions:
 
-    1. maze_main.cpp : This is the friver code which reads input, calls our solution and then prints the solution.
+    1. maze_main.cpp : This is the driver code which reads input, calls our solution and then prints the solution.
        
     2. maze.h : declares the problem class and base tree classes
        
